@@ -1,2 +1,2 @@
 <?php
-test.
+echo "hrusch! daBaй шашлbIk zhRаТb!!!";
